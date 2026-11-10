@@ -15,7 +15,7 @@
     {
       "binding": "DB",
       "database_name": "m-new-posted",
-      "database_id": "00000000-0000-0000-0000-000000000000",
+      "database_id": "e0294ff0-7e20-4cdd-a29b-0285a994fbfa",
       "migrations_dir": "migrations",
     },
   ],
